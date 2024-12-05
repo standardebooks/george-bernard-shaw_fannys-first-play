@@ -65,7 +65,7 @@ section[epub|type~="z3998:scene"] > p{
 }
 /* End core drama */
 
-/*Abbreviations in stage directions*/
+/* Abbreviations in stage directions */
 abbr[epub|type~="z3998:stage-direction"]{
 	font-style: normal;
 	font-variant: all-small-caps;
@@ -73,9 +73,9 @@ abbr[epub|type~="z3998:stage-direction"]{
 
 abbr[epub|type~="z3998:stage-direction"]::before,
 abbr[epub|type~="z3998:stage-direction"]::after{
-	content: '';
+	content: "";
 }
-/*End abbreviations in stage directions*/
+/* End abbreviations in stage directions */
 
 /* Dramatis Personae */
 [epub|type~="z3998:dramatis-personae"]{
