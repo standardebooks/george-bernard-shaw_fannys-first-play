@@ -49,7 +49,6 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_fannys-first-play</meta>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
 		<meta property="file-as" refines="#author">Shaw, George Bernard</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Bernard_Shaw</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79006533</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
