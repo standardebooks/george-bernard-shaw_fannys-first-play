@@ -96,4 +96,10 @@ abbr[epub|type~="z3998:stage-direction"]::after{
 	font-style: italic;
 	margin: 1em;
 }
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
 /* End Dramatis Personae */
