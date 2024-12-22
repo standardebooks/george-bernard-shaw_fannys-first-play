@@ -53,10 +53,9 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79006533</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Thérèse Lessore</dc:contributor>
+		<meta property="file-as" refines="#artist">Lessore, Thérèse</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Lessore</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Ron Burkey</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Burkey, Ron</meta>
@@ -64,7 +63,8 @@
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>		<dc:contributor id="producer-1">Asher Smith</dc:contributor>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Asher Smith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Smith, Asher</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
