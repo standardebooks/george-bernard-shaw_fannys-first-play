@@ -122,3 +122,10 @@ header{
 	text-align: center;
 }
 /* End Dramatis Personae */
+/* End of play footer */
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+/* End of end of play footer */
