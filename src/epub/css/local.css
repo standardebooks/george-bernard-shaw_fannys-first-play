@@ -118,10 +118,11 @@ tr.together td + td{
 
 header{
 	font-variant: small-caps;
-	margin: 1em;
+	margin: 2em;
 	text-align: center;
 }
 /* End Dramatis Personae */
+
 /* End of play footer */
 
 footer{
