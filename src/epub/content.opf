@@ -50,7 +50,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5698</dc:source>
 		<dc:source>https://archive.org/details/misalliancedarkl0000shaw</dc:source>
-		<meta property="se:word-count">27192</meta>
+		<meta property="se:word-count">26115</meta>
 		<meta property="se:reading-ease.flesch">77.64</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Fanny%27s_First_Play</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_fannys-first-play</meta>
